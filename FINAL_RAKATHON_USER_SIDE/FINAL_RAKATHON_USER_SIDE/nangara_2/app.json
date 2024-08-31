@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "nangara_2",
+    "slug": "nangara_2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon-n.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-n.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon-n.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.kafkaflow.nangara_2"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f7fa9fef-af72-456e-9a02-1c371e05994c"
+      }
+    },
+    "plugins": [
+      "expo-localization"
+    ]
+  }
+}
