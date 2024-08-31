@@ -1,0 +1,19 @@
+node_modules
+assets
+.expo
+dist
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build
+.env
+__pycache__
+*.pyc
+
+# macOS
+.DS_Store
+
